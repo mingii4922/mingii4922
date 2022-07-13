@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-
 <a href="https://www.instagram.com/mmingii.c/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
