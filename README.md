@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingii4922&count_bg=%230313ED&title_bg=%23EF1212&icon=azurefunctions.svg&icon_color=%23E7E7E7&title=Hello+Visitor&edge_flat=false)](https://hits.seeyoufarm.com)                   
 
 
