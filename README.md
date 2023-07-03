@@ -7,8 +7,7 @@
 Deep Neural Network<br>
 Computer Vision<br>
 Image Forensic<br>
-Image generation<br>
-Multimedia Computing<br>
+Image Generation<br>
 Autonomous Driving<br>
 
 ### :ghost: Work Environment
