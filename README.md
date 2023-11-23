@@ -21,7 +21,7 @@ Studying in <a href="https://sites.google.com/view/juhouhallym/research?authuser
 <h3 align="center"> :eyes: CONTACT </h3>
 <p align="center">
 
-<a href="https://www.notion.so/Contact-Information-3f292e94de0548a5a0384fcb043843b0"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>     <a href="https://velog.io/@mingii4922"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>     <a href="https://www.instagram.com/mmingii.c/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://sites.google.com/d/1Pd_sffYhecmjssHipzQR6RfmFUiY84Wp/p/1kMKhVHYd-N2UUksIakHqO6IIInYcE9Nv/edit"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>     <a href="https://velog.io/@mingii4922"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>     <a href="https://www.instagram.com/mmingii.c/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 <!--
