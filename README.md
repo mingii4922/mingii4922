@@ -4,11 +4,13 @@
 <br>
 
 ### :heart_eyes: Interest
-Deep Neural Network<br>
 Computer Vision<br>
 Image Forensic<br>
 Image Generation<br>
 Autonomous Driving<br>
+
+### :computer: [CV page](https://sites.google.com/d/1Pd_sffYhecmjssHipzQR6RfmFUiY84Wp/p/1kMKhVHYd-N2UUksIakHqO6IIInYcE9Nv/edit)
+
 
 ### :ghost: Work Environment
 Studying in <a href="https://sites.google.com/view/juhouhallym/research?authuser=0" target="_blank"> Multimedia Computing Laboratory</a>
@@ -19,9 +21,9 @@ Studying in <a href="https://sites.google.com/view/juhouhallym/research?authuser
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingii4922&count_bg=%230313ED&title_bg=%23EF1212&icon=azurefunctions.svg&icon_color=%23E7E7E7&title=Hello+Visitor&edge_flat=false)](https://hits.seeyoufarm.com)                   
 
 <h3 align="center"> :eyes: CONTACT </h3>
-<p align="center">
+<p align="center">  
 
-<a href="https://sites.google.com/d/1Pd_sffYhecmjssHipzQR6RfmFUiY84Wp/p/1kMKhVHYd-N2UUksIakHqO6IIInYcE9Nv/edit"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>     <a href="https://velog.io/@mingii4922"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>     <a href="https://www.instagram.com/mmingii.c/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://velog.io/@mingii4922"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>     <a href="https://www.instagram.com/mmingii.c/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 <!--
