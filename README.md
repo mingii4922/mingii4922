@@ -5,8 +5,8 @@
 
 ### :heart_eyes: Interest
 Computer Vision<br>
-Image Forensic<br>
 Image Generation<br>
+Image Forensic<br>
 Autonomous Driving<br>
 
 ### :computer: [CV page](https://sites.google.com/d/1Pd_sffYhecmjssHipzQR6RfmFUiY84Wp/p/1kMKhVHYd-N2UUksIakHqO6IIInYcE9Nv/edit)
