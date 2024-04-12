@@ -16,8 +16,6 @@ Autonomous Driving<br>
 Studying in <a href="https://sites.google.com/view/juhouhallym/research?authuser=0" target="_blank"> Multimedia Computing Laboratory</a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingii4922)](https://github.com/mingii4922/github-readme-stats)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingii4922&count_bg=%230313ED&title_bg=%23EF1212&icon=azurefunctions.svg&icon_color=%23E7E7E7&title=Hello+Visitor&edge_flat=false)](https://hits.seeyoufarm.com)                   
 
 <h3 align="center"> :eyes: CONTACT </h3>
