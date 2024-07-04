@@ -1,4 +1,4 @@
-<h2 align="center"> :boom: MINGI CHOI:boom: </h2> <br>
+<h2 align="left"> :boom: MINGI CHOI:boom: </h2> <br>
 
 <div align=center>
 <br>
